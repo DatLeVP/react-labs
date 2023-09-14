@@ -1,0 +1,10 @@
+.worldClock{
+    display: flex;
+    justify-content: center;
+
+}
+
+.component{
+    background-color: rgb(31, 229, 24);
+    border: 1px solid red;
+}
